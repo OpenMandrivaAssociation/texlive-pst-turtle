@@ -1,6 +1,6 @@
 Name:		texlive-pst-turtle
 Version:	52261
-Release:	1
+Release:	2
 Summary:	Commands for "turtle operations"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-turtle
