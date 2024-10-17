@@ -3,7 +3,7 @@ Version:	52261
 Release:	2
 Summary:	Commands for "turtle operations"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-turtle
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pst-turtle
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-turtle.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-turtle.doc.r%{version}.tar.xz
